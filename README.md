@@ -2,7 +2,7 @@
 To build Python Automation script to do SCM in Perforce
 
 Prerequisites:
-Perforce SCM - www.perforce.com – there is a free version that allows you to run it locally for small number of users w/o any additional registration/costs, it also has means of automation
+Perforce SCM - www.perforce.com – there is a free version that allows us to run it locally for small number of users w/o any additional registration/costs, it also has means of automation
 
 Task accomplished by this automation:
 
